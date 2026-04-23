@@ -1,14 +1,14 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=32&pause=1000&vCenter=true&width=700&lines=👋+Olá,+meu+nome+é+Alice;💻+Desenvolvedora+Fullstack+em+formação">
+<div align="center">
 
- </br>
-  <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=32&pause=1000&center=true&vCenter=true&width=700&lines=👋+Olá,+meu+nome+é+Alice;💻+Desenvolvedora+Fullstack+em+formação" />
 
-<a href="SEU_LINK_LINKEDIN" target="_blank">
+<br><br>
+
+<a href="https://www.linkedin.com/in/alice-ferreira-galas-429948385/?skipRedirect=true" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="alicefgalas@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -17,25 +17,30 @@
 </a>
 
 </div>
-</div>
-<hr style="height:4px; border:none; background-color:#FF69B4;">
-<h2 align="left"> Sobre mim</h2>
+
+<hr style="height:3px; border:none; background:linear-gradient(90deg, #FF69B4, transparent);">
+
+<h2 align="left">✨ Sobre mim</h2>
+
 
 <div align="left">
 <table>
 <tr>
 <td width="60%">
 
-🚀 <b>Especialidade:</b> Desenvolvimento Fullstack com foco em Front-end  
-🧠 <b>Foco Atual:</b> Criação de aplicações modernas, funcionais e responsivas  
-🎯 <b>Interesses:</b> UI/UX, desenvolvimento web, interfaces interativas e sistemas completos  
-📖 <b>Jornada:</b> Atualmente em formação em Programação (C# - Instituto PROA)  
+🚀 <b>Especialidade:</b> Desenvolvimento Fullstack com foco em Front-end.
 
-⚙️ <b>Stack:</b> HTML, CSS, JavaScript, lógica de programação (VisualG) e C#  
-🧩 <b>Projetos:</b> Desenvolvimento de aplicações web e a plataforma KROOQ  
+🧠 <b>Foco Atual:</b> Criação de aplicações modernas, funcionais e responsivas.  
+
+🎯 <b>Interesses:</b> UI/UX, desenvolvimento web, interfaces interativas e sistemas completos.
+
+📖 <b>Jornada:</b> Atualmente em formação em Programação (C# - Instituto PROA).
+
+⚙️ <b>Stack:</b> HTML, CSS, JavaScript, lógica de programação (VisualG) e C
+
+🧩 <b>Projetos:</b> Desenvolvimento de aplicações web e a plataforma KROOQ.
 
 </td>
-
 <td width="40%">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
@@ -44,4 +49,19 @@
 </td>
 </tr>
 </table>
+</div>
+
+<hr style="height:3px; border:none; background:linear-gradient(90deg, #FF69B4, transparent);">
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html" width="50px"/>
+<img src="https://skillicons.dev/icons?i=css" width="50px"/>
+<img src="https://skillicons.dev/icons?i=js" width="50px"/>
+<img src="https://skillicons.dev/icons?i=figma" width="50px"/>
+<img src="https://skillicons.dev/icons?i=git" width="50px"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="50px"/>
+
 </div>
