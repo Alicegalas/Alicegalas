@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=32&pause=1000&center=true&vCenter=true&width=700&lines=👋+Olá,+meu+nome+é+Alice;💻+Desenvolvedora+Fullstack+em+formação" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF91A4&size=32&pause=1000&center=true&vCenter=true&width=700&lines=👋+Olá,+meu+nome+é+Alice+Ferreira;💻+Desenvolvedora+Fullstack+em+formação" />
 
 <br><br>
 
@@ -38,7 +38,7 @@
 
 ⚙️ <b>Stack:</b> HTML, CSS, JavaScript, lógica de programação (VisualG) e C
 
-🧩 <b>Projetos:</b> Desenvolvimento de aplicações web e a plataforma KROOQ.
+🧩 <b>Projetos:</b> Desenvolvendo aplicações web e a plataforma KROOQ.
 
 </td>
 <td width="40%">
@@ -65,3 +65,12 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="50px"/>
 
 </div>
+<br></br>
+<!-- Pacman -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
+</picture>
+
