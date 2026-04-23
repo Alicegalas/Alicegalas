@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="alicefgalas@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
 <a href="https://www.instagram.com/___.licezxs/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -73,4 +69,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
 </picture>
+<section align ="center">
+
+`💫 Developer | IA Enthusiast | Sempre aprendendo`
+
+
+</section>
 
