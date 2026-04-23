@@ -32,7 +32,7 @@
 
 📖 <b>Jornada:</b> Atualmente em formação em Programação (C# - Instituto PROA).
 
-⚙️ <b>Stack:</b> HTML, CSS, JavaScript, lógica de programação (VisualG) e C
+⚙️ <b>Stack:</b> HTML, CSS, JavaScript, lógica de programação (VisualG).
 
 🧩 <b>Projetos:</b> Desenvolvendo aplicações web e a plataforma KROOQ.
 
