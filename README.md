@@ -64,7 +64,7 @@
 <img src="https://skillicons.dev/icons?i=cs" width="50px"/>
 <img src="https://skillicons.dev/icons?i=dotnet" width="50px"/>
 <img src="https://skillicons.dev/icons?i=nodejs" width="50px"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="50px"/>
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50px"/>
 
 
 </div>
