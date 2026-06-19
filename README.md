@@ -59,6 +59,7 @@
 <img src="https://skillicons.dev/icons?i=figma" width="50px"/>
 <img src="https://skillicons.dev/icons?i=git" width="50px"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="50px"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" width="50px"/>
 <img src="https://skillicons.dev/icons?i=react" width="50px"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" width="50px"/>
 <img src="https://skillicons.dev/icons?i=cs" width="50px"/>
